@@ -1,0 +1,251 @@
+ID_Vendita,Cliente,Data_vendita,Materiale,Prezzo_Unitario,Perc_Margine,Quantità,Importo_Totale
+VND-001,EdilElegance Residenze,07/11/2022,Finestre in alluminio,175.73,34,36,8477.22
+VND-002,EdilEco Residenze,19/07/2020,Coperture in tegole,23.77,39,72,2378.9
+VND-003,EdilStyle Innovazioni,01/11/2021,Scalini di granito,85.33,37,66,7715.54
+VND-004,CasaSostenibile Progetti,10/01/2022,Coperture in tegole,11.81,29,86,1310.2
+VND-005,CasaFutura Design,10/10/2023,Sistema di riscaldamento a pavimento,571.03,25,54,38544.52
+VND-006,EdilStyle Innovazioni,02/08/2022,Finestre in alluminio,103.96,27,43,5677.26
+VND-007,GreenSolutions Costruzioni,07/06/2020,Finestre in alluminio,100.18,37,37,5078.12
+VND-008,EdilElegance Residenze,05/01/2022,Pannelli solari termici,935.95,25,57,66686.44
+VND-009,CasaSostenibile Progetti,10/06/2022,Pannelli solari termici,694.08,28,49,43532.7
+VND-010,UrbanDesign & Edilizia,07/10/2021,Finestre in alluminio,147.75,40,95,19650.75
+VND-011,GreenSolutions Costruzioni,22/02/2022,Lastre di gesso,5.02,27,51,325.15
+VND-012,CasaBella Progetti,15/06/2023,Piastrelle in ceramica,24.58,26,50,1548.54
+VND-013,EcoArchitettura Residenziale,30/05/2023,Finestre in alluminio,149.99,29,13,2515.33
+VND-014,NuovaCasa Costruzioni,23/08/2022,Porte in legno massiccio,205.33,34,30,8254.27
+VND-015,ArchitetturaVerde snc,15/02/2020,Pittura acrilica,33.11,34,99,4392.37
+VND-016,ArchitetturaInnovativa srl,11/03/2023,Tubazioni in PVC,3.17,25,67,265.49
+VND-017,GreenBuild Costruzioni,28/09/2021,Rivestimento in pietra naturale,26.61,30,20,691.86
+VND-018,ImpreseEdili Rossi,09/03/2020,Calcestruzzo pronto,80.23,32,45,4765.66
+VND-019,NuovaCasa Costruzioni,19/06/2020,Piastrelle in ceramica,19.83,27,91,2291.75
+VND-020,NuovaCasa Costruzioni,29/12/2023,Sistema di riscaldamento a pavimento,448.25,25,75,42023.44
+VND-021,EdilDesign Innovazioni,03/05/2020,Cemento Portland,96.97,34,48,6237.11
+VND-022,EdilDesign Innovazioni,11/10/2021,Tubazioni in PVC,4.53,28,43,249.33
+VND-023,ArchitetturaVerde snc,17/09/2020,Legname da costruzione,407.57,38,68,38246.37
+VND-024,EdilStyle Innovazioni,25/12/2021,Lastre di gesso,10.02,38,45,622.24
+VND-025,EdilArte Design,27/07/2023,Finitura a gesso,23.06,25,7,201.78
+VND-026,CasaFutura Design,05/03/2021,Calcestruzzo pronto,90.17,25,58,6537.33
+VND-027,GreenBuild Costruzioni,24/06/2022,Piastrelle in ceramica,23.33,28,11,328.49
+VND-028,GreenSpace Costruzioni,25/12/2020,Calcestruzzo pronto,82.52,27,16,1676.81
+VND-029,EdilArte Design,11/09/2020,Coperture in tegole,20.4,28,11,287.23
+VND-030,TecnicoEdile Studio,31/10/2021,Cartongesso,14.84,37,90,1829.77
+VND-031,TecnicoEdile Studio,02/06/2023,Lastre di gesso,12.06,38,22,366.14
+VND-032,EdilElegance Residenze,11/11/2020,Ferro per armatura,1.8,33,74,177.16
+VND-033,GreenSpace Costruzioni,16/04/2023,Finestre in alluminio,140.26,29,50,9046.77
+VND-034,CasaModerna Progetti,06/02/2023,Rivestimento in pietra naturale,39.85,38,46,2529.68
+VND-035,ArchitetturaInnovativa srl,10/01/2022,Ferro per armatura,1.28,33,75,127.68
+VND-036,CasaFutura Design,01/10/2020,Impalcature,309.59,34,60,24891.04
+VND-037,EcoBuild Residenze,14/07/2020,Finitura a gesso,24.53,39,16,545.55
+VND-038,EdilCostruzioni Srl,14/10/2022,Rivestimento in pietra naturale,46.37,35,46,2879.58
+VND-039,UrbanDesign & Edilizia,01/05/2021,Tubazioni in PVC,2.14,25,54,144.45
+VND-040,ModernLiving Progetti,10/02/2023,Calcestruzzo pronto,103.46,38,9,1284.97
+VND-041,ModernLiving Progetti,13/09/2021,Finitura a gesso,15.45,32,17,346.7
+VND-042,NuovaCasa Costruzioni,18/11/2020,Calcestruzzo pronto,80.65,28,37,3819.58
+VND-043,EdilStyle Innovazioni,25/02/2021,Finestre in alluminio,161.53,38,99,22068.23
+VND-044,CasaBella Progetti,10/12/2020,Scalini di granito,113.45,34,32,4864.74
+VND-045,Ambiente&Edilizia Studio,28/06/2020,Legname da costruzione,375.81,26,73,34567.0
+VND-046,EdilEco Residenze,18/02/2022,Scalini di granito,58.62,35,53,4194.26
+VND-047,CasaSostenibile Progetti,27/05/2021,Cemento Portland,59.32,36,60,4840.51
+VND-048,UrbanDesign & Edilizia,19/07/2023,Cemento Portland,73.6,31,64,6170.62
+VND-049,EdilElegance Residenze,11/08/2023,Finestre in alluminio,190.75,28,17,4150.72
+VND-050,EdilStyle Innovazioni,03/09/2023,Ferro per armatura,1.01,33,93,124.93
+VND-051,ImpreseEdili Rossi,09/02/2022,Cartongesso,10.58,32,25,349.14
+VND-052,Ambiente&Edilizia Studio,28/01/2021,Tubazioni in PVC,2.82,38,79,307.44
+VND-053,EdilArte Design,24/06/2021,Impalcature,355.0,26,88,39362.4
+VND-054,CasaSostenibile Progetti,28/07/2022,Lastre di gesso,6.11,34,41,335.68
+VND-055,EdilEco Residenze,20/05/2020,Impalcature,369.8,27,13,6105.4
+VND-056,EcoBuild Residenze,19/02/2020,Porte in legno massiccio,268.24,35,63,22813.81
+VND-057,ModernLiving Progetti,17/04/2023,Legname da costruzione,562.08,38,16,12410.73
+VND-058,ArchitetturaInnovativa srl,05/09/2022,Cartongesso,14.13,35,85,1621.42
+VND-059,CasaFutura Design,22/08/2021,Rivestimento in pietra naturale,21.14,39,43,1263.54
+VND-060,EdilArte Design,14/07/2020,Scalini di granito,88.75,37,35,4255.56
+VND-061,EdilDesign Innovazioni,12/02/2020,Porte in legno massiccio,297.19,27,59,22268.45
+VND-062,CasaNuova Costruzioni,07/01/2021,Scalini di granito,50.22,34,15,1009.42
+VND-063,ArchitetturaVerde snc,27/02/2023,Rivestimento in pietra naturale,41.51,30,42,2266.45
+VND-064,EcoBuild Residenze,08/09/2023,Finitura a gesso,21.93,32,63,1823.7
+VND-065,EdilEco Residenze,16/02/2023,Rivestimento in pietra naturale,60.89,37,84,7007.22
+VND-066,ArchitetturaInnovativa srl,19/03/2021,Sistema di riscaldamento a pavimento,320.19,40,15,6723.99
+VND-067,EdilDesign Innovazioni,17/12/2021,Ferro per armatura,1.7,36,11,25.43
+VND-068,GreenBuild Costruzioni,23/03/2020,Mattoni ceramici,0.34,33,41,18.54
+VND-069,ArchitetturaVerde snc,27/05/2022,Impalcature,204.87,26,53,13681.22
+VND-070,ArchitetturaVerde snc,07/08/2020,Porte in legno massiccio,245.29,26,75,23179.91
+VND-071,EdilArte Design,06/12/2021,Sistema di riscaldamento a pavimento,439.71,36,6,3588.03
+VND-072,EdilElegance Residenze,16/05/2023,Pannelli solari termici,956.21,39,53,70443.99
+VND-073,StudioArchitettura Bianchi,09/01/2021,Ferro per armatura,2.17,36,78,230.19
+VND-074,CasaFutura Design,21/02/2021,Piastrelle in ceramica,35.79,31,26,1219.01
+VND-075,ImpreseEdili Rossi,03/11/2021,Isolamento termico,22.11,28,66,1867.85
+VND-076,GreenBuild Costruzioni,21/12/2021,Legname da costruzione,320.56,28,30,12309.5
+VND-077,AmbientArchitettura,16/08/2022,Lastre di gesso,5.55,31,40,290.82
+VND-078,EcoHabitat Costruzioni,01/04/2023,Cartongesso,9.36,27,24,285.29
+VND-079,NuovaCasa Costruzioni,09/01/2023,Lastre di gesso,5.87,40,39,320.5
+VND-080,NuovaCasa Costruzioni,16/02/2022,Ferro per armatura,1.67,31,30,65.63
+VND-081,EdilElegance Residenze,04/08/2021,Cemento Portland,62.46,40,77,6733.19
+VND-082,EdilDesign Innovazioni,22/01/2020,Sistema di riscaldamento a pavimento,492.01,37,93,62686.99
+VND-083,GreenSpace Costruzioni,26/05/2023,Cartongesso,10.44,29,14,188.55
+VND-084,GreenBuild Costruzioni,25/06/2023,Impalcature,294.88,29,35,13313.83
+VND-085,CasaModerna Progetti,05/04/2022,Finestre in alluminio,160.66,36,32,6991.92
+VND-086,CasaSostenibile Progetti,14/01/2022,Piastrelle in ceramica,23.18,39,90,2899.82
+VND-087,EcoBuild Residenze,27/03/2023,Porte in legno massiccio,158.87,37,70,15235.63
+VND-088,ArchitetturaViva snc,14/02/2022,Coperture in tegole,11.25,40,28,441.0
+VND-089,AmbientArchitettura,24/12/2023,Scalini di granito,90.92,40,26,3309.49
+VND-090,EcoArchitettura Residenziale,13/02/2023,Scalini di granito,51.38,32,48,3255.44
+VND-091,AmbientArchitettura,06/10/2023,Impalcature,342.27,39,22,10466.62
+VND-092,TecnicoEdile Studio,09/07/2023,Tubazioni in PVC,3.5,37,61,292.5
+VND-093,CasaBella Progetti,14/09/2020,Cemento Portland,76.33,28,85,8304.7
+VND-094,CasaNuova Costruzioni,03/05/2023,Porte in legno massiccio,265.41,32,66,23122.52
+VND-095,NuovaCasa Costruzioni,05/05/2023,Pannelli solari termici,663.84,26,94,78625.21
+VND-096,EcoHabitat Costruzioni,25/06/2020,Piastrelle in ceramica,32.09,39,48,2141.04
+VND-097,GreenSpace Costruzioni,17/11/2023,Lastre di gesso,14.49,32,33,631.18
+VND-098,CasaNuova Costruzioni,02/10/2020,Calcestruzzo pronto,92.19,36,38,4764.38
+VND-099,Ambiente&Edilizia Studio,20/04/2020,Legname da costruzione,322.04,40,18,8115.41
+VND-100,EdilElegance Residenze,17/10/2022,Porte in legno massiccio,183.17,27,94,21866.83
+VND-101,ArchitetturaInnovativa srl,02/03/2023,Rivestimento in pietra naturale,51.01,31,7,467.76
+VND-102,TecnicoEdile Studio,02/10/2022,Ferro per armatura,2.37,39,88,289.9
+VND-103,GreenSolutions Costruzioni,21/04/2023,Piastrelle in ceramica,33.07,32,97,4234.28
+VND-104,Ambiente&Edilizia Studio,22/08/2023,Pittura acrilica,23.84,39,23,762.16
+VND-105,ArchitetturaViva snc,28/01/2022,Rivestimento in pietra naturale,78.73,34,63,6646.39
+VND-106,EcoBuild Residenze,12/05/2021,Calcestruzzo pronto,107.13,28,48,6582.07
+VND-107,EdilStyle Innovazioni,16/12/2022,Tubazioni in PVC,4.72,25,30,177.0
+VND-108,EdilStyle Innovazioni,25/01/2020,Cemento Portland,54.03,36,5,367.4
+VND-109,EdilStyle Innovazioni,30/10/2021,Lastre di gesso,9.59,39,79,1053.08
+VND-110,StudioArchitettura Bianchi,25/12/2023,Calcestruzzo pronto,103.58,37,15,2128.57
+VND-111,EdilEco Residenze,09/04/2022,Piastrelle in ceramica,32.85,31,70,3012.34
+VND-112,CasaFutura Design,03/02/2020,Calcestruzzo pronto,104.63,39,93,13525.52
+VND-113,EcoBuild Residenze,17/11/2022,Scalini di granito,115.45,37,80,12653.32
+VND-114,EdilDesign Innovazioni,26/01/2022,Calcestruzzo pronto,80.84,31,55,5824.52
+VND-115,ImpreseEdili Rossi,30/05/2022,Impalcature,482.39,31,73,46130.96
+VND-116,UrbanDesign & Edilizia,31/08/2022,Coperture in tegole,12.96,32,22,376.36
+VND-117,ImpreseEdili Rossi,20/05/2022,Tubazioni in PVC,3.27,28,78,326.48
+VND-118,ModernLiving Progetti,16/12/2022,Mattoni ceramici,0.31,29,95,37.99
+VND-119,ProgettoCasa Srl,04/10/2022,Calcestruzzo pronto,117.63,40,37,6093.23
+VND-120,AmbientArchitettura,14/12/2020,Coperture in tegole,15.85,38,72,1574.86
+VND-121,ModernLiving Progetti,18/08/2022,Scalini di granito,77.93,27,47,4651.64
+VND-122,EcoHabitat Costruzioni,30/12/2020,Finitura a gesso,26.18,35,51,1802.49
+VND-123,CasaBella Progetti,11/02/2020,Cemento Portland,93.73,28,52,6238.67
+VND-124,CasaNuova Costruzioni,23/04/2021,Ferro per armatura,1.1,28,79,111.23
+VND-125,Ambiente&Edilizia Studio,14/11/2020,Sistema di riscaldamento a pavimento,688.66,35,65,60429.91
+VND-126,TecnicoEdile Studio,05/06/2023,Coperture in tegole,19.72,28,32,807.73
+VND-127,GreenSpace Costruzioni,03/04/2020,Legname da costruzione,462.47,34,70,43379.69
+VND-128,EdilStyle Innovazioni,21/09/2023,Lastre di gesso,9.93,27,74,933.22
+VND-129,EdilEco Residenze,20/10/2021,Scalini di granito,75.4,32,74,7365.07
+VND-130,EdilArte Design,08/09/2021,Lastre di gesso,5.2,30,11,74.36
+VND-131,CasaSostenibile Progetti,22/03/2020,Sistema di riscaldamento a pavimento,451.33,38,25,15570.88
+VND-132,CasaNuova Costruzioni,26/11/2023,Ferro per armatura,1.64,26,23,47.53
+VND-133,CasaNuova Costruzioni,02/12/2020,Sistema di riscaldamento a pavimento,640.28,31,90,75489.01
+VND-134,EdilDesign Innovazioni,05/06/2023,Coperture in tegole,18.86,38,65,1691.74
+VND-135,ArchitetturaVerde snc,21/01/2022,Isolamento termico,22.9,33,37,1126.91
+VND-136,CasaFutura Design,26/07/2021,Pittura acrilica,38.79,27,89,4384.43
+VND-137,CasaFutura Design,27/08/2022,Impalcature,225.51,38,70,21784.27
+VND-138,ArchitetturaInnovativa srl,26/10/2020,Piastrelle in ceramica,29.82,40,40,1669.92
+VND-139,UrbanDesign & Edilizia,23/02/2022,Porte in legno massiccio,299.98,32,72,28510.1
+VND-140,EdilArte Design,27/01/2023,Finitura a gesso,28.63,29,71,2622.22
+VND-141,Architetti Associati,02/07/2022,Coperture in tegole,10.59,38,17,248.44
+VND-142,EcoHabitat Costruzioni,18/03/2023,Ferro per armatura,1.81,32,20,47.78
+VND-143,EdilEco Residenze,28/10/2023,Pannelli solari termici,609.74,39,57,48309.7
+VND-144,StudioArchitettura Bianchi,15/03/2020,Impalcature,409.46,30,42,22356.52
+VND-145,EdilDesign Innovazioni,14/03/2022,Finitura a gesso,15.66,38,65,1404.7
+VND-146,CasaSostenibile Progetti,21/12/2020,Cartongesso,11.07,39,76,1169.43
+VND-147,GreenBuild Costruzioni,06/07/2021,Legname da costruzione,386.73,34,64,33165.96
+VND-148,StudioArchitettura Bianchi,26/04/2022,Impalcature,343.96,36,84,39293.99
+VND-149,ArchitetturaViva snc,23/11/2021,Piastrelle in ceramica,34.98,32,47,2170.16
+VND-150,ProgettoCasa Srl,28/09/2022,Tubazioni in PVC,3.64,32,12,57.66
+VND-151,EdilStyle Innovazioni,27/10/2023,Cemento Portland,78.95,40,12,1326.36
+VND-152,TecnicoEdile Studio,13/02/2022,Pannelli solari termici,642.07,37,28,24629.81
+VND-153,EdilElegance Residenze,23/01/2020,Scalini di granito,105.43,31,22,3038.49
+VND-154,EcoHabitat Costruzioni,09/12/2020,Cartongesso,9.5,26,58,694.26
+VND-155,CasaSostenibile Progetti,13/12/2020,Calcestruzzo pronto,84.19,38,7,813.28
+VND-156,GreenSpace Costruzioni,29/05/2023,Cemento Portland,68.39,30,29,2578.3
+VND-157,CasaNuova Costruzioni,07/12/2020,Mattoni ceramici,0.46,32,45,27.32
+VND-158,TecnicoEdile Studio,03/12/2022,Cartongesso,9.45,29,68,828.95
+VND-159,NuovaCasa Costruzioni,15/11/2020,Lastre di gesso,9.37,31,67,822.4
+VND-160,GreenSolutions Costruzioni,05/04/2022,Isolamento termico,18.75,26,97,2291.62
+VND-161,EcoBuild Residenze,30/05/2023,Rivestimento in pietra naturale,68.53,31,49,4398.94
+VND-162,StudioArchitettura Bianchi,12/09/2023,Tubazioni in PVC,3.01,25,61,229.51
+VND-163,GreenBuild Costruzioni,18/09/2022,Finitura a gesso,14.01,35,7,132.39
+VND-164,NuovaCasa Costruzioni,28/02/2021,Pannelli solari termici,754.05,36,13,13331.6
+VND-165,Ambiente&Edilizia Studio,10/09/2023,Tubazioni in PVC,3.72,26,67,314.04
+VND-166,GreenSpace Costruzioni,29/03/2020,Pittura acrilica,42.62,35,85,4890.64
+VND-167,EdilDesign Innovazioni,22/11/2022,Calcestruzzo pronto,107.04,34,92,13195.89
+VND-168,EdilEco Residenze,10/11/2021,Piastrelle in ceramica,29.88,25,25,933.75
+VND-169,EdilElegance Residenze,06/06/2020,Finitura a gesso,20.38,36,31,859.22
+VND-170,CasaNuova Costruzioni,07/06/2020,Calcestruzzo pronto,96.52,34,97,12545.67
+VND-171,CasaBella Progetti,17/05/2023,Porte in legno massiccio,291.68,37,12,4795.22
+VND-172,ModernLiving Progetti,28/07/2022,Impalcature,474.66,30,18,11107.04
+VND-173,ProgettoCasa Srl,17/06/2023,Piastrelle in ceramica,36.16,33,48,2308.45
+VND-174,AmbientArchitettura,26/03/2022,Finestre in alluminio,187.69,38,26,6734.32
+VND-175,ProgettoCasa Srl,20/05/2022,Rivestimento in pietra naturale,78.89,28,70,7068.54
+VND-176,StudioArchitettura Bianchi,03/02/2023,Scalini di granito,65.38,26,86,7084.58
+VND-177,ArchitetturaVerde snc,22/03/2021,Porte in legno massiccio,254.01,29,79,25886.16
+VND-178,CasaNuova Costruzioni,09/11/2020,Pannelli solari termici,688.38,39,9,8611.63
+VND-179,EdilDesign Innovazioni,25/12/2021,Pittura acrilica,47.84,37,79,5177.72
+VND-180,GreenBuild Costruzioni,21/02/2021,Cartongesso,14.73,30,36,689.36
+VND-181,ArchitetturaInnovativa srl,25/12/2022,Isolamento termico,26.36,34,45,1589.51
+VND-182,Architetti Associati,03/09/2021,Porte in legno massiccio,171.71,30,8,1785.78
+VND-183,EdilEco Residenze,19/05/2021,Calcestruzzo pronto,80.34,32,58,6150.83
+VND-184,ArchitetturaVerde snc,23/03/2023,Tubazioni in PVC,5.13,30,41,273.43
+VND-185,ArchitetturaInnovativa srl,16/12/2023,Finestre in alluminio,188.39,31,78,19249.69
+VND-186,CasaFutura Design,16/04/2020,Finitura a gesso,12.44,37,34,579.46
+VND-187,CasaNuova Costruzioni,22/09/2021,Cartongesso,11.71,37,90,1443.84
+VND-188,GreenSolutions Costruzioni,07/05/2022,Rivestimento in pietra naturale,52.12,26,54,3546.24
+VND-189,StudioArchitettura Bianchi,19/05/2022,Pannelli solari termici,670.08,25,54,45230.4
+VND-190,EdilCostruzioni Srl,03/06/2020,Porte in legno massiccio,259.27,28,50,16593.28
+VND-191,EdilArte Design,09/12/2020,Legname da costruzione,479.24,31,97,60897.03
+VND-192,ArchitetturaVerde snc,10/11/2020,Rivestimento in pietra naturale,67.67,34,99,8977.1
+VND-193,ArchitetturaInnovativa srl,01/12/2020,Lastre di gesso,7.36,27,74,691.69
+VND-194,Ambiente&Edilizia Studio,05/02/2021,Finestre in alluminio,159.38,32,78,16409.76
+VND-195,ModernLiving Progetti,08/06/2021,Cartongesso,10.95,27,16,222.5
+VND-196,GreenSpace Costruzioni,15/04/2022,Mattoni ceramici,0.49,31,39,25.03
+VND-197,AmbientArchitettura,05/12/2020,Pittura acrilica,39.37,39,76,4159.05
+VND-198,NuovaCasa Costruzioni,14/01/2023,Scalini di granito,81.0,36,80,8812.8
+VND-199,EdilStyle Innovazioni,08/06/2020,Cemento Portland,82.58,31,97,10493.44
+VND-200,ProgettoCasa Srl,07/10/2020,Finestre in alluminio,183.63,37,42,10566.07
+VND-201,ProgettoCasa Srl,08/08/2020,Calcestruzzo pronto,85.74,29,67,7410.51
+VND-202,AmbientArchitettura,05/01/2020,Impalcature,312.91,33,36,14982.13
+VND-203,CasaNuova Costruzioni,25/07/2020,Isolamento termico,15.53,38,26,557.22
+VND-204,NuovaCasa Costruzioni,16/01/2020,Piastrelle in ceramica,30.18,26,63,2395.69
+VND-205,EdilStyle Innovazioni,23/11/2021,Cemento Portland,86.35,27,5,548.32
+VND-206,Ambiente&Edilizia Studio,18/12/2023,Finitura a gesso,22.21,32,25,732.93
+VND-207,CasaBella Progetti,18/08/2020,Pittura acrilica,31.26,36,44,1870.6
+VND-208,NuovaCasa Costruzioni,07/10/2023,Legname da costruzione,479.16,30,82,51078.46
+VND-209,ArchitetturaVerde snc,29/07/2020,Calcestruzzo pronto,94.33,28,12,1448.91
+VND-210,CasaNuova Costruzioni,17/01/2023,Rivestimento in pietra naturale,24.1,39,93,3115.41
+VND-211,EcoBuild Residenze,10/07/2020,Rivestimento in pietra naturale,49.5,28,40,2534.4
+VND-212,UrbanDesign & Edilizia,14/01/2021,Porte in legno massiccio,157.83,33,79,16583.2
+VND-213,EdilCostruzioni Srl,18/10/2021,Finestre in alluminio,193.55,26,11,2682.6
+VND-214,EdilCostruzioni Srl,23/12/2022,Isolamento termico,13.38,39,19,353.37
+VND-215,EdilCostruzioni Srl,02/11/2023,Lastre di gesso,11.96,29,16,246.85
+VND-216,GreenBuild Costruzioni,30/05/2021,Tubazioni in PVC,5.41,39,41,308.32
+VND-217,EdilStyle Innovazioni,22/11/2023,Piastrelle in ceramica,30.45,34,81,3305.04
+VND-218,Architetti Associati,23/05/2023,Pittura acrilica,41.0,29,48,2538.72
+VND-219,CasaFutura Design,23/07/2021,Impalcature,321.94,36,20,8756.77
+VND-220,EcoHabitat Costruzioni,19/12/2022,Impalcature,263.26,26,87,28858.56
+VND-221,EdilElegance Residenze,06/10/2022,Impalcature,318.62,25,40,15931.0
+VND-222,EdilCostruzioni Srl,11/03/2020,Ferro per armatura,1.15,35,37,57.44
+VND-223,TecnicoEdile Studio,29/08/2023,Piastrelle in ceramica,15.68,26,87,1718.84
+VND-224,AmbientArchitettura,07/09/2021,Coperture in tegole,14.55,28,28,521.47
+VND-225,CasaFutura Design,06/03/2022,Impalcature,220.89,35,86,25645.33
+VND-226,CasaNuova Costruzioni,06/03/2020,Finitura a gesso,21.48,26,94,2544.09
+VND-227,NuovaCasa Costruzioni,21/12/2023,Legname da costruzione,384.63,25,22,10577.32
+VND-228,CasaNuova Costruzioni,24/08/2020,Isolamento termico,26.78,36,71,2585.88
+VND-229,EdilEco Residenze,25/01/2022,Calcestruzzo pronto,92.83,25,42,4873.58
+VND-230,AmbientArchitettura,22/04/2022,Piastrelle in ceramica,23.85,31,13,406.17
+VND-231,NuovaCasa Costruzioni,07/03/2022,Sistema di riscaldamento a pavimento,661.73,34,68,60296.84
+VND-232,UrbanDesign & Edilizia,11/07/2021,Finestre in alluminio,198.32,29,61,15605.8
+VND-233,Architetti Associati,12/11/2021,Legname da costruzione,580.28,30,94,70910.22
+VND-234,EcoBuild Residenze,10/05/2023,Finitura a gesso,14.97,27,86,1635.02
+VND-235,GreenSpace Costruzioni,19/10/2020,Pannelli solari termici,557.58,35,6,4516.4
+VND-236,GreenBuild Costruzioni,04/03/2021,Rivestimento in pietra naturale,22.89,32,67,2024.39
+VND-237,UrbanDesign & Edilizia,23/02/2022,Calcestruzzo pronto,86.72,26,65,7102.37
+VND-238,ImpreseEdili Rossi,21/10/2021,Legname da costruzione,596.48,34,85,67939.07
+VND-239,AmbientArchitettura,19/09/2022,Finestre in alluminio,148.79,37,59,12026.7
+VND-240,TecnicoEdile Studio,14/11/2021,Lastre di gesso,10.65,31,17,237.18
+VND-241,EcoBuild Residenze,18/03/2023,Legname da costruzione,455.94,34,73,44600.05
+VND-242,EcoBuild Residenze,09/08/2021,Impalcature,407.46,25,50,25466.25
+VND-243,GreenSpace Costruzioni,09/12/2023,Pannelli solari termici,552.93,38,91,69436.95
+VND-244,NuovaCasa Costruzioni,05/11/2023,Porte in legno massiccio,254.71,31,16,5338.72
+VND-245,EcoArchitettura Residenziale,29/07/2022,Isolamento termico,12.44,25,38,590.9
+VND-246,EdilStyle Innovazioni,24/01/2022,Pittura acrilica,31.19,30,41,1662.43
+VND-247,ArchitetturaVerde snc,03/02/2023,Coperture in tegole,13.41,33,59,1052.28
+VND-248,AmbientArchitettura,17/11/2020,Coperture in tegole,11.7,36,49,779.69
+VND-249,EdilCostruzioni Srl,05/04/2020,Rivestimento in pietra naturale,33.34,31,57,2489.5
+VND-250,GreenSpace Costruzioni,04/12/2020,Lastre di gesso,8.78,36,42,501.51
