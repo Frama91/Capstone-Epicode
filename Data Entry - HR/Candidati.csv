@@ -1,0 +1,251 @@
+Nome,Cognome,Data di nascita,Genere,CF,Posizione precedente,Data candidatura,Posizione ricercata
+Ludovica,Giordano,28/03/2003,F,LUDGIO03F234,Esperto di DevOps,15/05/2022,Analista QA (Quality Assurance)
+Lara,Caruso,08/12/2002,F,LARCAR02F205,Web developer,15/12/2023,Amministratore del database
+Martina,Mancini,10/11/1992,F,MARMAN92F335,Web developer,27/09/2021,Specialista di machine learning
+Camilla,Bianchi,09/06/1990,F,CAMBIA90F356,Ingegnere del software back-end,22/10/2021,Ingegnere del software embedded
+Matteo,Mariani,07/06/2003,M,MATMAR03M955,Ingegnere del software back-end,14/12/2023,Specialista di reti neurali
+Luigi,Bianchi,08/11/2002,M,LUIBIA02M160,Amministratore del database,24/02/2020,Specialista di machine learning
+Alessia,Ferrara,15/09/1999,F,ALEFER99F445,Esperto di sicurezza informatica,09/02/2023,Amministratore del database
+Filippo,Gallo,30/08/2004,M,FILGAL04M354,Ingegnere del software embedded,22/06/2023,Architetto software
+Chiara,Rossi,14/02/1997,F,CHIROS97F637,Ingegnere di rete,19/03/2023,Esperto di intelligenza artificiale
+Emma,Esposito,27/05/1990,F,EMMESP90F253,Ingegnere del firmware,19/04/2023,Esperto di DevOps
+Giorgia,Colombo,07/06/1992,F,GIOCOL92F390,Architetto software,01/04/2021,Esperto di sicurezza informatica
+Sofia,Mancini,23/09/1997,F,SOFMAN97F492,Amministratore del database,10/10/2022,Ingegnere del software
+Riccardo,Moretti,30/09/1998,M,RICMOR98M529,Amministratore di sistema,11/09/2020,Esperto di intelligenza artificiale
+Francesca,Conti,12/12/1996,F,FRACON96F288,Analista di sicurezza informatica,04/03/2020,Esperto di intelligenza artificiale
+Ludovica,De Luca,26/11/1997,F,LUDDE97F392,Ingegnere del software front-end,14/03/2022,Esperto di sicurezza informatica
+Simone,Rossi,07/12/2002,M,SIMROS02M816,Specialista di reti neurali,27/12/2021,Specialista di machine learning
+Giorgia,Ricci,15/05/2001,F,GIORIC01F605,Ingegnere del software mobile,07/08/2022,Esperto di intelligenza artificiale
+Francesco,Bruno,09/11/1993,M,FRABRU93M363,Analista di business intelligence,26/02/2023,Data scientist
+Emanuele,Mancini,16/04/1994,M,EMAMAN94M408,Specialista di reti neurali,06/10/2021,Specialista di machine learning
+Roberta,Costa,16/05/1993,F,ROBCOS93F649,Ingegnere del software back-end,14/01/2022,Ingegnere del firmware
+Federico,Bruno,10/11/1994,M,FEDBRU94M175,Ingegnere del software back-end,26/09/2023,Analista QA (Quality Assurance)
+Aurora,De Luca,04/04/1993,F,AURDE93F137,Specialista di machine learning,06/07/2021,Ingegnere del software mobile
+Alessia,Gallo,28/06/1996,F,ALEGAL96F138,Sviluppatore software,04/07/2022,Ingegnere del software embedded
+Martina,Galli,14/11/1990,F,MARGAL90F102,Analista di sicurezza informatica,30/11/2022,Ingegnere del firmware
+Greta,De Luca,27/02/1994,F,GREDE94F198,Amministratore di sistema,15/05/2023,Ingegnere dei sistemi embedded
+Tommaso,Leone,11/06/1993,M,TOMLEO93M610,Ingegnere del firmware,17/09/2022,Web developer
+Christian,Moretti,23/02/1999,M,CHRMOR99M614,Project manager IT,16/07/2021,Ingegnere del firmware
+Camilla,Leone,26/06/1996,F,CAMLEO96F983,Architetto software,12/02/2022,Sviluppatore software
+Matteo,Mancini,29/11/1992,M,MATMAN92M831,Ingegnere di rete,10/12/2022,Analista di sicurezza informatica
+Greta,Martini,12/02/2000,F,GREMAR00F219,Amministratore del database,02/12/2023,Architetto software
+Matteo,Colombo,19/05/1994,M,MATCOL94M196,Ingegnere di rete,07/04/2021,Sviluppatore software
+Simone,Lombardi,24/03/1992,M,SIMLOM92M823,Architetto software,01/08/2023,Esperto di intelligenza artificiale
+Elisa,Rossi,27/12/1997,F,ELIROS97F511,Analista QA (Quality Assurance),01/07/2023,Ingegnere del software back-end
+Gabriele,Mariani,15/07/1999,M,GABMAR99M610,Architetto software,05/11/2022,Ingegnere del software back-end
+Giovanni,Esposito,16/05/1993,M,GIOESP93M683,Esperto di intelligenza artificiale,19/02/2020,Ingegnere dei sistemi embedded
+Giulia,Romano,03/09/2001,F,GIUROM01F393,Data scientist,30/08/2022,Project manager IT
+Riccardo,Martini,28/06/2000,M,RICMAR00M801,Analista QA (Quality Assurance),05/08/2020,Ingegnere del software front-end
+Elena,Ricci,30/09/2003,F,ELERIC03F980,Ingegnere del software embedded,12/07/2022,Specialista di machine learning
+Andrea,Ricci,28/08/1998,M,ANDRIC98M177,Analista QA (Quality Assurance),02/02/2023,Analista di sicurezza informatica
+Marta,Lombardi,14/01/1995,F,MARLOM95F373,Ingegnere dei sistemi embedded,10/11/2022,Ingegnere del software mobile
+Luigi,Mariani,18/07/1998,M,LUIMAR98M526,Amministratore del database,31/12/2022,Ingegnere di rete
+Emanuele,Rinaldi,11/06/1998,M,EMARIN98M625,Analista di sicurezza informatica,16/07/2020,Ingegnere del software
+Giovanni,Barbieri,25/05/1993,M,GIOBAR93M843,Analista di business intelligence,06/11/2020,Amministratore di sistema
+Michele,Russo,13/10/2001,M,MICRUS01M490,Ingegnere del software front-end,16/10/2021,Analista QA (Quality Assurance)
+Sara,Marino,31/03/1992,F,SARMAR92F404,Data scientist,29/10/2020,Esperto di DevOps
+Christian,Bianchi,24/03/1996,M,CHRBIA96M770,Ingegnere dei sistemi embedded,15/10/2023,Architetto software
+Antonio,Galli,13/01/2003,M,ANTGAL03M250,Analista QA (Quality Assurance),02/10/2021,Ingegnere del software embedded
+Leonardo,Conti,03/08/1993,M,LEOCON93M459,Amministratore di sistema,06/10/2023,Analista di business intelligence
+Matteo,Russo,23/09/1998,M,MATRUS98M989,Data scientist,25/10/2020,Ingegnere del software mobile
+Tommaso,Bianchi,30/10/1994,M,TOMBIA94M436,Ingegnere del software front-end,05/03/2021,Ingegnere del firmware
+Chiara,Bruno,07/06/2001,F,CHIBRU01F569,Analista di business intelligence,07/09/2022,Ingegnere dei sistemi embedded
+Marco,Costa,13/07/1995,M,MARCOS95M209,Amministratore del database,03/06/2023,Ingegnere di rete
+Davide,Lombardi,09/09/1995,M,DAVLOM95M202,Analista dati,19/07/2020,Data scientist
+Niccolò,Galli,12/02/1992,M,NICGAL92M595,Specialista di machine learning,25/09/2021,Ingegnere del software mobile
+Elisa,Santoro,30/05/1999,F,ELISAN99F325,Amministratore del database,11/07/2020,Analista di business intelligence
+Luca,Costa,30/05/1991,M,LUCCOS91M230,Ingegnere del software back-end,10/11/2021,Architetto software
+Enrico,Romano,06/01/1990,M,ENRROM90M235,Specialista di machine learning,27/06/2022,Ingegnere del software front-end
+Enrico,Barbieri,23/03/2004,M,ENRBAR04M863,Analista QA (Quality Assurance),23/11/2021,Analista di business intelligence
+Leonardo,Martini,21/02/1996,M,LEOMAR96M118,Ingegnere del software,18/12/2023,Ingegnere del firmware
+Camilla,Ricci,11/05/1994,F,CAMRIC94F243,Ingegnere del software front-end,07/06/2022,Ingegnere dei sistemi embedded
+Luigi,Barbieri,25/06/1990,M,LUIBAR90M709,Ingegnere di rete,05/03/2023,Esperto di intelligenza artificiale
+Marco,Giordano,24/04/1992,M,MARGIO92M915,Specialista di reti neurali,02/02/2023,Analista QA (Quality Assurance)
+Gabriele,Ferrari,01/02/1991,M,GABFER91M441,Esperto di sicurezza informatica,02/02/2020,Data scientist
+Alice,Fontana,20/01/2003,F,ALIFON03F447,Ingegnere del software mobile,13/02/2020,Amministratore di sistema
+Alessia,Marino,19/11/2000,F,ALEMAR00F950,Ingegnere del software front-end,14/05/2021,Analista dati
+Isabella,Mariani,10/10/1996,F,ISAMAR96F288,Ingegnere del software back-end,30/10/2023,Architetto software
+Andrea,Santoro,14/03/1998,M,ANDSAN98M684,Ingegnere del software mobile,26/02/2020,Ingegnere del software front-end
+Sara,De Luca,18/05/1991,F,SARDE91F202,Ingegnere di rete,24/01/2022,Ingegnere dei sistemi embedded
+Alberto,Conti,18/03/1991,M,ALBCON91M938,Project manager IT,22/04/2020,Amministratore di sistema
+Andrea,Colombo,30/04/1998,M,ANDCOL98M734,Ingegnere del software front-end,29/11/2021,Sviluppatore software
+Lara,Bruno,04/03/2000,F,LARBRU00F915,Analista di business intelligence,26/04/2021,Analista di business intelligence
+Simone,Ricci,09/07/1999,M,SIMRIC99M159,Esperto di sicurezza informatica,13/03/2021,Ingegnere del software embedded
+Luigi,De Luca,19/01/1992,M,LUIDE92M212,Ingegnere del software embedded,21/10/2020,Ingegnere dei sistemi embedded
+Lorenzo,Russo,11/12/2000,M,LORRUS00M677,Ingegnere del software front-end,04/07/2023,Amministratore di sistema
+Riccardo,Ricci,12/09/1993,M,RICRIC93M338,Analista QA (Quality Assurance),07/01/2021,Ingegnere del firmware
+Giovanni,Rossi,13/09/1990,M,GIOROS90M519,Web developer,09/11/2022,Web developer
+Sofia,Ricci,18/11/1997,F,SOFRIC97F217,Amministratore di sistema,30/03/2020,Amministratore del database
+Martina,Caruso,29/08/1994,F,MARCAR94F654,Analista di business intelligence,29/06/2022,Ingegnere dei sistemi embedded
+Aurora,Romano,12/02/1999,F,AURROM99F702,Analista QA (Quality Assurance),04/02/2021,Analista di business intelligence
+Gabriele,Russo,28/01/1991,M,GABRUS91M136,Esperto di DevOps,19/05/2021,Amministratore del database
+Marta,Conti,31/08/1999,F,MARCON99F541,Ingegnere del software front-end,23/09/2021,Architetto software
+Camilla,Santoro,20/08/1999,F,CAMSAN99F705,Esperto di DevOps,05/08/2021,Ingegnere del firmware
+Beatrice,Leone,08/03/1990,F,BEALEO90F621,Amministratore di sistema,14/03/2020,Analista dati
+Riccardo,Leone,17/09/2003,M,RICLEO03M349,Data scientist,24/10/2023,Specialista di reti neurali
+Filippo,Costa,13/07/1996,M,FILCOS96M206,Ingegnere del software mobile,17/10/2021,Ingegnere dei sistemi embedded
+Giorgia,Leone,11/01/1991,F,GIOLEO91F668,Analista dati,25/01/2023,Ingegnere del software back-end
+Giuseppe,De Luca,16/02/2004,M,GIUDE04M846,Project manager IT,17/10/2023,Esperto di intelligenza artificiale
+Lorenzo,Bianchi,25/04/1991,M,LORBIA91M857,Specialista di machine learning,24/10/2023,Ingegnere del software mobile
+Caterina,Leone,23/07/2002,F,CATLEO02F346,Analista dati,13/04/2023,Esperto di DevOps
+Marco,Ferrara,16/10/1992,M,MARFER92M609,Sviluppatore software,12/09/2022,Ingegnere del software embedded
+Simone,Colombo,18/05/1991,M,SIMCOL91M224,Esperto di sicurezza informatica,12/01/2020,Specialista di machine learning
+Laura,Bianchi,15/03/1990,F,LAUBIA90F397,Ingegnere del software front-end,20/04/2021,Analista QA (Quality Assurance)
+Sara,Esposito,04/09/1994,F,SARESP94F483,Ingegnere del software mobile,01/05/2020,Ingegnere del software mobile
+Elisa,Esposito,04/03/1996,F,ELIESP96F502,Esperto di DevOps,02/08/2023,Ingegnere del software embedded
+Matteo,Leone,05/05/2001,M,MATLEO01M688,Ingegnere del firmware,21/10/2023,Specialista di reti neurali
+Elena,Lombardi,19/08/1995,F,ELELOM95F545,Esperto di sicurezza informatica,28/02/2020,Data scientist
+Matteo,Colombo,03/02/2001,M,MATCOL01M221,Specialista di reti neurali,21/08/2020,Specialista di machine learning
+Roberta,Mariani,18/04/1994,F,ROBMAR94F798,Analista QA (Quality Assurance),06/10/2022,Ingegnere del firmware
+Ludovica,Conti,14/04/2003,F,LUDCON03F970,Ingegnere del software front-end,30/06/2020,Ingegnere del software back-end
+Lara,Esposito,10/11/1993,F,LARESP93F221,Ingegnere del software back-end,19/01/2021,Ingegnere del software back-end
+Simone,Moretti,17/06/1995,M,SIMMOR95M879,Amministratore del database,03/03/2023,Ingegnere del firmware
+Lara,Mariani,13/12/2002,F,LARMAR02F372,Ingegnere di rete,23/02/2022,Amministratore del database
+Giuseppe,Martini,10/01/1990,M,GIUMAR90M489,Analista dati,19/12/2020,Ingegnere del firmware
+Lara,Ferrari,17/03/2000,F,LARFER00F803,Specialista di machine learning,27/10/2020,Sviluppatore software
+Martina,Marino,23/05/2004,F,MARMAR04F961,Amministratore di sistema,14/02/2020,Esperto di intelligenza artificiale
+Alberto,Bianchi,16/09/1998,M,ALBBIA98M702,Ingegnere del software embedded,24/11/2022,Amministratore del database
+Simone,Rinaldi,26/04/1996,M,SIMRIN96M169,Analista di business intelligence,26/10/2021,Specialista di reti neurali
+Francesca,Moretti,06/11/1999,F,FRAMOR99F283,Ingegnere del software mobile,12/09/2020,Ingegnere del software mobile
+Isabella,Giordano,05/12/1996,F,ISAGIO96F601,Ingegnere dei sistemi embedded,23/02/2020,Ingegnere dei sistemi embedded
+Enrico,Colombo,13/09/1994,M,ENRCOL94M259,Ingegnere del software mobile,24/09/2023,Ingegnere dei sistemi embedded
+Filippo,Mancini,16/04/1993,M,FILMAN93M494,Ingegnere del software mobile,29/05/2020,Ingegnere del firmware
+Giuseppe,Caruso,15/05/1998,M,GIUCAR98M415,Web developer,10/12/2023,Sviluppatore software
+Antonio,Galli,01/06/1994,M,ANTGAL94M783,Specialista di machine learning,26/03/2020,Analista dati
+Beatrice,Lombardi,02/07/2000,F,BEALOM00F894,Esperto di intelligenza artificiale,27/08/2022,Esperto di DevOps
+Beatrice,Russo,17/02/1998,F,BEARUS98F488,Amministratore del database,14/10/2022,Esperto di intelligenza artificiale
+Francesco,Rinaldi,14/06/1999,M,FRARIN99M237,Ingegnere del software,08/11/2023,Web developer
+Alberto,Barbieri,28/12/1995,M,ALBBAR95M416,Analista QA (Quality Assurance),26/02/2021,Analista QA (Quality Assurance)
+Giuseppe,Russo,28/05/1993,M,GIURUS93M677,Analista di business intelligence,06/05/2023,Amministratore di sistema
+Lorenzo,Ricci,28/03/2002,M,LORRIC02M655,Analista di sicurezza informatica,15/02/2021,Ingegnere del software mobile
+Giorgia,Bianchi,11/10/2001,F,GIOBIA01F544,Analista QA (Quality Assurance),20/07/2023,Web developer
+Camilla,Gallo,19/07/2004,F,CAMGAL04F600,Esperto di intelligenza artificiale,19/04/2022,Ingegnere del software
+Marta,Fontana,25/12/2002,F,MARFON02F341,Ingegnere del firmware,24/11/2022,Ingegnere del software front-end
+Alessandro,Fontana,19/10/1995,M,ALEFON95M133,Ingegnere del firmware,22/09/2023,Specialista di machine learning
+Marta,Mariani,24/01/1994,F,MARMAR94F175,Ingegnere dei sistemi embedded,28/08/2023,Ingegnere dei sistemi embedded
+Simone,Martini,25/04/1996,M,SIMMAR96M960,Ingegnere di rete,27/05/2020,Ingegnere del software
+Lorenzo,Martini,17/04/1996,M,LORMAR96M265,Specialista di machine learning,22/02/2021,Analista di business intelligence
+Marta,Ricci,28/02/1999,F,MARRIC99F444,Ingegnere del software front-end,15/06/2020,Ingegnere del software embedded
+Giovanni,Costa,26/07/1999,M,GIOCOS99M142,Ingegnere del software,10/07/2020,Ingegnere del software back-end
+Francesco,Ricci,06/05/1992,M,FRARIC92M176,Analista di business intelligence,09/08/2023,Project manager IT
+Michele,Conti,06/10/1997,M,MICCON97M180,Analista QA (Quality Assurance),10/12/2021,Ingegnere del software mobile
+Alberto,Colombo,18/02/1993,M,ALBCOL93M115,Ingegnere del software mobile,19/10/2020,Ingegnere dei sistemi embedded
+Giulia,Greco,13/09/1990,F,GIUGRE90F240,Ingegnere del software mobile,03/10/2023,Ingegnere del firmware
+Niccolò,Russo,23/02/2001,M,NICRUS01M631,Architetto software,05/05/2020,Ingegnere del firmware
+Lara,Rinaldi,14/11/1997,F,LARRIN97F278,Esperto di DevOps,01/01/2020,Analista QA (Quality Assurance)
+Gabriele,Lombardi,03/01/1994,M,GABLOM94M175,Sviluppatore software,22/01/2020,Amministratore di sistema
+Alessandro,Bruno,10/05/2002,M,ALEBRU02M617,Specialista di machine learning,26/09/2021,Web developer
+Riccardo,Martini,20/06/1992,M,RICMAR92M790,Web developer,15/09/2023,Ingegnere dei sistemi embedded
+Riccardo,Mancini,25/12/2001,M,RICMAN01M751,Data scientist,23/07/2020,Ingegnere del software front-end
+Leonardo,Conti,29/05/1996,M,LEOCON96M681,Web developer,18/03/2022,Specialista di reti neurali
+Federico,Russo,27/03/1995,M,FEDRUS95M885,Analista QA (Quality Assurance),09/04/2023,Project manager IT
+Roberta,Galli,20/07/2004,F,ROBGAL04F179,Esperto di DevOps,25/02/2020,Specialista di reti neurali
+Leonardo,Barbieri,23/03/2003,M,LEOBAR03M965,Ingegnere del software,15/07/2023,Amministratore del database
+Alessandro,Marino,14/01/1996,M,ALEMAR96M346,Ingegnere del software embedded,29/05/2020,Ingegnere del software back-end
+Elisa,Santoro,17/06/1991,F,ELISAN91F816,Analista di business intelligence,25/05/2020,Ingegnere del software mobile
+Isabella,Esposito,16/08/2003,F,ISAESP03F685,Web developer,18/07/2021,Ingegnere del software mobile
+Martina,Lombardi,07/07/1991,F,MARLOM91F339,Specialista di machine learning,20/09/2023,Analista dati
+Francesco,Rinaldi,15/05/1995,M,FRARIN95M650,Data scientist,24/10/2022,Specialista di machine learning
+Michele,Gallo,23/05/1998,M,MICGAL98M461,Analista dati,18/03/2022,Ingegnere del software front-end
+Sofia,Lombardi,17/08/1993,F,SOFLOM93F980,Amministratore del database,19/04/2023,Specialista di machine learning
+Elisa,Bruno,26/04/2000,F,ELIBRU00F786,Esperto di sicurezza informatica,02/02/2023,Amministratore del database
+Eleonora,Gallo,20/07/1993,F,ELEGAL93F997,Analista dati,11/08/2020,Analista dati
+Camilla,Giordano,11/10/1997,F,CAMGIO97F638,Analista di sicurezza informatica,31/12/2022,Ingegnere del software back-end
+Roberta,Leone,30/08/1997,F,ROBLEO97F545,Ingegnere di rete,06/03/2023,Ingegnere del software back-end
+Lara,Moretti,18/04/1996,F,LARMOR96F548,Analista di sicurezza informatica,02/04/2021,Architetto software
+Caterina,Santoro,10/03/2002,F,CATSAN02F258,Analista dati,22/01/2022,Sviluppatore software
+Marta,Lombardi,01/11/1990,F,MARLOM90F901,Specialista di reti neurali,07/08/2023,Architetto software
+Leonardo,Leone,05/12/1996,M,LEOLEO96M958,Analista di sicurezza informatica,25/11/2021,Analista dati
+Chiara,Russo,12/09/1994,F,CHIRUS94F280,Ingegnere di rete,29/04/2022,Specialista di reti neurali
+Federico,Leone,12/10/1999,M,FEDLEO99M532,Data scientist,19/02/2022,Ingegnere del software
+Marta,Colombo,12/07/1995,F,MARCOL95F466,Data scientist,26/01/2021,Ingegnere dei sistemi embedded
+Giovanni,Santoro,19/11/1993,M,GIOSAN93M901,Ingegnere del software mobile,19/09/2020,Amministratore del database
+Marco,Ferrari,16/09/2000,M,MARFER00M263,Sviluppatore software,02/08/2023,Analista di business intelligence
+Elisa,Leone,15/05/2003,F,ELILEO03F199,Ingegnere del software,22/02/2021,Project manager IT
+Giovanni,Caruso,26/11/1996,M,GIOCAR96M458,Ingegnere del software back-end,18/02/2021,Ingegnere del software mobile
+Simone,Fontana,26/03/1995,M,SIMFON95M258,Analista di sicurezza informatica,08/11/2022,Analista QA (Quality Assurance)
+Filippo,Rizzo,01/10/2002,M,FILRIZ02M886,Ingegnere di rete,17/09/2020,Sviluppatore software
+Caterina,Ricci,17/05/1994,F,CATRIC94F545,Architetto software,15/03/2020,Esperto di DevOps
+Niccolò,Conti,03/09/1990,M,NICCON90M598,Architetto software,28/11/2022,Data scientist
+Riccardo,Fontana,05/07/2003,M,RICFON03M346,Analista di business intelligence,25/01/2021,Ingegnere di rete
+Greta,Giordano,28/06/1990,F,GREGIO90F432,Web developer,19/10/2020,Ingegnere del software embedded
+Camilla,Leone,23/10/2000,F,CAMLEO00F968,Ingegnere del firmware,17/01/2023,Ingegnere del software mobile
+Antonio,Galli,29/10/2001,M,ANTGAL01M771,Analista di sicurezza informatica,14/01/2021,Ingegnere del software back-end
+Gabriele,Ferrari,04/06/2003,M,GABFER03M509,Ingegnere del software embedded,09/07/2021,Data scientist
+Riccardo,Rinaldi,06/03/1995,M,RICRIN95M764,Ingegnere del software back-end,25/02/2023,Esperto di sicurezza informatica
+Antonio,Leone,04/12/2001,M,ANTLEO01M162,Analista QA (Quality Assurance),19/02/2020,Ingegnere del firmware
+Luigi,Rinaldi,01/06/1995,M,LUIRIN95M647,Esperto di sicurezza informatica,08/04/2023,Amministratore del database
+Emanuele,Bianchi,04/12/1996,M,EMABIA96M450,Ingegnere dei sistemi embedded,07/12/2020,Analista di business intelligence
+Leonardo,Esposito,04/04/2002,M,LEOESP02M663,Ingegnere del software,07/07/2022,Ingegnere dei sistemi embedded
+Camilla,Ferrari,31/12/1998,F,CAMFER98F287,Web developer,16/04/2023,Ingegnere del software embedded
+Michele,Ferrari,15/06/2002,M,MICFER02M805,Ingegnere del software front-end,15/04/2022,Analista dati
+Francesco,Rizzo,15/05/1993,M,FRARIZ93M347,Ingegnere del software mobile,26/08/2021,Ingegnere del software back-end
+Marta,Conti,09/06/1991,F,MARCON91F103,Esperto di intelligenza artificiale,15/01/2022,Specialista di machine learning
+Giuseppe,Rizzo,15/04/2003,M,GIURIZ03M858,Architetto software,08/08/2022,Ingegnere dei sistemi embedded
+Christian,Martini,05/06/1997,M,CHRMAR97M483,Analista QA (Quality Assurance),27/03/2021,Ingegnere del software mobile
+Ludovica,Lombardi,21/05/1995,F,LUDLOM95F377,Analista QA (Quality Assurance),13/03/2021,Data scientist
+Niccolò,Esposito,18/10/2002,M,NICESP02M132,Ingegnere di rete,01/11/2020,Ingegnere di rete
+Martina,Galli,26/10/1990,F,MARGAL90F517,Project manager IT,03/10/2023,Web developer
+Federico,Mancini,29/03/1996,M,FEDMAN96M688,Analista QA (Quality Assurance),11/04/2023,Esperto di sicurezza informatica
+Greta,Ricci,15/12/1991,F,GRERIC91F471,Ingegnere del software back-end,25/04/2023,Esperto di sicurezza informatica
+Greta,Rossi,20/10/2003,F,GREROS03F986,Specialista di machine learning,28/05/2022,Esperto di intelligenza artificiale
+Tommaso,Barbieri,10/09/2004,M,TOMBAR04M987,Ingegnere di rete,14/01/2021,Project manager IT
+Alberto,Fontana,05/12/1991,M,ALBFON91M134,Esperto di DevOps,24/02/2023,Amministratore del database
+Marta,Rossi,25/12/1998,F,MARROS98F871,Project manager IT,15/09/2023,Esperto di sicurezza informatica
+Laura,Galli,24/03/2001,F,LAUGAL01F152,Sviluppatore software,15/11/2020,Ingegnere dei sistemi embedded
+Andrea,Russo,24/09/1993,M,ANDRUS93M627,Ingegnere del software,02/04/2022,Ingegnere del software mobile
+Roberta,Marino,18/07/1995,F,ROBMAR95F875,Analista di business intelligence,14/08/2023,Ingegnere di rete
+Francesca,Fontana,05/11/1991,F,FRAFON91F402,Analista di business intelligence,09/09/2021,Data scientist
+Giovanni,Moretti,26/02/2001,M,GIOMOR01M227,Data scientist,25/05/2022,Ingegnere dei sistemi embedded
+Giorgia,Rinaldi,03/10/1993,F,GIORIN93F437,Ingegnere del software,15/02/2023,Ingegnere del software embedded
+Alessandro,Russo,28/03/2004,M,ALERUS04M411,Specialista di machine learning,16/04/2020,Project manager IT
+Martina,De Luca,11/09/1999,F,MARDE99F631,Sviluppatore software,15/04/2021,Data scientist
+Camilla,Giordano,15/07/2003,F,CAMGIO03F824,Esperto di sicurezza informatica,09/04/2023,Ingegnere dei sistemi embedded
+Giulia,Marino,28/09/1999,F,GIUMAR99F403,Ingegnere del software mobile,05/01/2023,Analista QA (Quality Assurance)
+Leonardo,Caruso,20/04/1990,M,LEOCAR90M659,Ingegnere di rete,19/06/2022,Specialista di machine learning
+Valentina,Ferrari,24/09/1993,F,VALFER93F565,Architetto software,19/03/2021,Ingegnere del firmware
+Giovanni,Russo,17/03/1990,M,GIORUS90M657,Architetto software,16/12/2021,Specialista di reti neurali
+Giuseppe,Mancini,27/07/1994,M,GIUMAN94M813,Analista dati,06/09/2023,Analista di sicurezza informatica
+Andrea,Conti,17/01/2004,M,ANDCON04M911,Analista QA (Quality Assurance),29/04/2021,Sviluppatore software
+Aurora,Rinaldi,24/07/1998,F,AURRIN98F945,Specialista di reti neurali,22/06/2023,Project manager IT
+Beatrice,Mariani,03/04/2000,F,BEAMAR00F106,Analista QA (Quality Assurance),17/12/2022,Esperto di sicurezza informatica
+Gabriele,Lombardi,02/02/2003,M,GABLOM03M131,Amministratore del database,24/08/2023,Ingegnere del software mobile
+Roberta,Romano,13/08/1998,F,ROBROM98F455,Amministratore del database,28/09/2021,Ingegnere dei sistemi embedded
+Luigi,Ricci,02/09/1998,M,LUIRIC98M154,Ingegnere di rete,09/01/2021,Ingegnere del firmware
+Martina,Giordano,24/02/2001,F,MARGIO01F152,Analista dati,13/05/2023,Ingegnere del software back-end
+Luigi,Esposito,19/06/1991,M,LUIESP91M575,Ingegnere di rete,01/07/2022,Specialista di machine learning
+Chiara,Bruno,26/11/1990,F,CHIBRU90F874,Amministratore di sistema,19/12/2020,Specialista di machine learning
+Andrea,Giordano,04/09/1994,M,ANDGIO94M592,Analista dati,03/12/2023,Specialista di reti neurali
+Isabella,Conti,09/04/1994,F,ISACON94F279,Analista QA (Quality Assurance),09/11/2021,Data scientist
+Sofia,Moretti,06/02/1992,F,SOFMOR92F618,Specialista di machine learning,05/08/2023,Analista di business intelligence
+Francesca,Esposito,23/10/1995,F,FRAESP95F726,Analista di business intelligence,14/10/2021,Project manager IT
+Elisa,Costa,25/05/1991,F,ELICOS91F436,Ingegnere del software back-end,19/03/2020,Ingegnere dei sistemi embedded
+Filippo,Galli,14/03/1997,M,FILGAL97M541,Analista dati,10/04/2020,Ingegnere del software mobile
+Isabella,Marino,28/01/1999,F,ISAMAR99F280,Ingegnere del software front-end,16/10/2022,Analista di business intelligence
+Alberto,Costa,25/04/1995,M,ALBCOS95M957,Specialista di machine learning,27/06/2020,Esperto di sicurezza informatica
+Giulia,Esposito,16/04/2004,F,GIUESP04F625,Sviluppatore software,18/02/2020,Ingegnere del software
+Isabella,Leone,19/07/1999,F,ISALEO99F802,Ingegnere del firmware,15/07/2021,Ingegnere del software mobile
+Emma,Esposito,14/05/2004,F,EMMESP04F552,Architetto software,26/06/2020,Ingegnere dei sistemi embedded
+Antonio,Colombo,07/02/1991,M,ANTCOL91M556,Project manager IT,02/01/2022,Amministratore del database
+Lorenzo,Bianchi,03/02/1991,M,LORBIA91M470,Ingegnere del software,02/04/2021,Ingegnere del software back-end
+Alice,Ricci,29/11/2004,F,ALIRIC04F358,Amministratore di sistema,04/11/2023,Specialista di reti neurali
+Luigi,De Luca,15/10/2002,M,LUIDE02M962,Esperto di intelligenza artificiale,25/12/2021,Amministratore del database
+Isabella,Martini,19/02/1997,F,ISAMAR97F507,Ingegnere del software mobile,17/12/2021,Ingegnere del software
+Michele,Conti,25/07/1993,M,MICCON93M558,Analista QA (Quality Assurance),12/04/2022,Project manager IT
+Giovanni,Conti,25/04/1996,M,GIOCON96M458,Web developer,19/04/2021,Analista dati
+Enrico,Rizzo,15/03/1992,M,ENRRIZ92M867,Analista di business intelligence,13/11/2023,Amministratore del database
+Francesca,Bianchi,22/05/1994,F,FRABIA94F424,Architetto software,08/12/2022,Analista QA (Quality Assurance)
+Elena,Bruno,04/11/1993,F,ELEBRU93F285,Ingegnere dei sistemi embedded,24/09/2022,Ingegnere del software embedded
+Enrico,Galli,25/05/1999,M,ENRGAL99M750,Ingegnere dei sistemi embedded,05/03/2022,Ingegnere del software embedded
+Beatrice,Leone,28/06/1995,F,BEALEO95F366,Amministratore di sistema,16/04/2023,Analista QA (Quality Assurance)
+Caterina,Lombardi,16/04/2000,F,CATLOM00F134,Esperto di sicurezza informatica,31/07/2020,Analista dati
+Alberto,Moretti,03/07/1995,M,ALBMOR95M657,Ingegnere dei sistemi embedded,02/08/2023,Specialista di machine learning
+Emma,Gallo,28/09/1994,F,EMMGAL94F356,Ingegnere del software mobile,28/08/2021,Ingegnere dei sistemi embedded
+Valentina,Mancini,16/06/1996,F,VALMAN96F540,Ingegnere del software mobile,24/10/2020,Ingegnere del software
+Chiara,Rossi,02/08/1997,F,CHIROS97F922,Ingegnere del software back-end,25/08/2021,Architetto software
+Ludovica,Rinaldi,11/04/2003,F,LUDRIN03F450,Esperto di sicurezza informatica,18/11/2020,Architetto software
+Francesca,Mariani,06/12/2002,F,FRAMAR02F794,Esperto di intelligenza artificiale,11/07/2022,Analista di sicurezza informatica
+Lara,Gallo,13/02/1996,F,LARGAL96F391,Ingegnere dei sistemi embedded,29/07/2021,Amministratore di sistema
+Isabella,Esposito,07/04/2004,F,ISAESP04F836,Amministratore di sistema,31/10/2020,Amministratore del database
+Giulia,Martini,27/10/2002,F,GIUMAR02F406,Specialista di machine learning,23/01/2022,Analista di sicurezza informatica
+Alessia,Santoro,15/04/1996,F,ALESAN96F583,Sviluppatore software,28/08/2021,Specialista di reti neurali
