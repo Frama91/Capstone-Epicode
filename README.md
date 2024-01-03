@@ -1,6 +1,6 @@
 # Descrizione dei progetti
 
-## Data Entry - HR
+## [Data Entry - HR](https://github.com/Frama91/Portfolio/tree/main/Data%20Entry%20-%20HR ' Vai al progetto')
 - **Strumenti Utilizzati:**
   - *Python*
   - *Excel*
@@ -15,7 +15,8 @@
 
 
 
-## Epicode
+
+## [Epicode](https://github.com/Frama91/Portfolio/tree/main/Epicode 'Vai al progetto')
 - **Strumenti Utilizzati:**
   - *Python*
   - *Excel*
@@ -33,7 +34,7 @@
   - *Report*
 
 
-## DataEdilis
+## [DataEdilis](https://github.com/Frama91/Portfolio/tree/main/DataEdilis 'Vai al progetto')
 - **Strumenti Utilizzati:**
   - *Python*
   - *Excel*
