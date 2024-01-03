@@ -2,7 +2,7 @@
 
 ## 1. [Python](https://github.com/Frama91/Portfolio/tree/main/Epicode/Python 'Vai alla cartella')
    
-   - > <font color = "#519ABA">_Crea Database.ipynb_</font>  
+   - > $${\color{red}_Crea Database.ipynb_}$$   
       - Codice per generare in modo casuale file CSV utilizzati per la pulizia e le analisi.
    - > <font color = "#519ABA">_Data Cleaning & Visualization.ipynb_  </font>
       - Codice per la pulizia e la visualizzazione dei grafici.
