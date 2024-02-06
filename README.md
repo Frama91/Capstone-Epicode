@@ -25,7 +25,7 @@
   - *Power BI*
 - **Descrizione:**
   *Progetto finale sviluppato alla fine del percorso con Epicode.
-   Oggetto di studio è un'azienda fittizia operante nel settore tech. Vengono create, tramite uno script, 4 tabelle contenenti i dati su dipendenti, clienti, prodotti e vendite effettuate in un determinato arco temporale. Le caratteristiche principali sono dati generati in maniera completamente casuale ed analisi, interrogazioni e visualizzazioni fatte con più strumenti.*
+   Oggetto di studio è un'azienda fittizia operante nel settore tech. Vengono create, tramite uno script, 4 tabelle contenenti i dati su dipendenti, clienti, prodotti e vendite effettuate in un determinato arco temporale. Le caratteristiche principali sono i dati generati in maniera completamente casuale ed analisi, interrogazioni e visualizzazioni fatte con più strumenti.*
 - **Funzioni:**
   - *Creazione dati fittizi di un'azienda tech*
   - *Pulizia dati*
