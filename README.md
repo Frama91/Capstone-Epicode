@@ -34,12 +34,11 @@
   - *Report*
 
 
-## [DataEdilis](https://github.com/Frama91/Portfolio/tree/main/DataEdilis 'Vai al progetto')
+## [Licei Italiani](https://github.com/Frama91/Portfolio/tree/main/DataEdilis 'Vai al progetto')
 - **Strumenti Utilizzati:**
-  - *Python*
-  - *Excel*
+  - *Looker Studio*
 - **Descrizione:**
-  *Gestionale minimo e brevi analisi sulle vendite di un'azienda operante nel settore edilizio.*
+  *Permette di ottenere i contatti dei sul territorio italiano.*
 - **Funzioni:**
-  - *Inserimento nuovi record*
-  - *Analisi dei dati*
+  - *Filtro Licei*
+  - *Download dati*
