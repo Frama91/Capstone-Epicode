@@ -1,21 +1,23 @@
-#  $\color{yellow}{\textsf{DataEdilis}}$ 
+#  $\color{yellow}{\textsf{Ricerca Licei}}$ 
 
 ## File
- -  $\color{#519ABA}{\textsf{Creazione Tabelle.ipynb}}$  
-	Algoritmo per la generazione delle tabelle utilizzate nelle analisi.  
+ -  $\color{#519ABA}{\textsf{Licei Italiani.url}}$  
+	Link al report.  
 
--  $\color{#86B943}{\textsf{Vendite.csv, Acquisti.csv}}$  
-	File di testo, formato CSV, contenenti i dati sulle vendite e gli acquisti, generati dall'algoritmo.  
+-  $\color{#86B943}{\textsf{Elenco Scuole Looker.csv}}$  
+	File di testo, formato CSV, contenenti i dati dei licei italiani.
+	
+	Fonte https://dati.istruzione.it/opendata/opendata/
 
--  $\color{#18D85A}{\textsf{Gestione dati e report.xlsm}}$   
-	File Excel con codice VBA. Vengono caricati i dati dai file CSV ed eseguite delle semplici analisi. Sono state implementate delle funzioni base per 	l'inserimento di nuovi record.
 
 ## Descrizione del progetto
 
-1. Creazione della tabella dati  
-	Attraverso l'utilizzo dell'algoritmo, vengono create, in maniera del tutto casuale, due tabelle con una quantità definibile di righe. Le tabelle 	riguardano gli acquisti e le vendite fittizie di un'azienda operante nel settore edilizio.
-	Ogni riga contiene un codice univoco che identifica la riga e le informazioni che possono risultare utili ai fini di una futura analisi. 
+1. Manipolazione e Pulizia  
+	Dopo aver scaricato i dati di tutte le scuole italiane dal sito del MIUR, ho scelto di tenere solo i dati riguardanti i licei. Per poter ottenere dei dati compatibili con le richieste di Looker Studio, aggiunto e corretto alcune informazioni creando un file CSV che contenesse i dati nel formato desiderato. 
 
-2. Funzioni del gestionale  
-	Lo scopo del gestionale è quello di poter inserire dei nuovi dati, compilando i campi dedicati e seguendo le istruzioni.
-	La parte finale è dedicata al report dei dati caricati.
+2. Funzioni del report.  
+	- filtrare la ricerca su base geografica,  
+	- filtrare la ricerca sul tipo di liceo ricercato,
+	- scaricare il report per intero,
+	- scaricare i soli dati filtrati,
+	- ottenere i contatti principali dei licei.
