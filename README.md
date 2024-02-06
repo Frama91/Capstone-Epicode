@@ -34,7 +34,7 @@
   - *Report*
 
 
-## [Licei Italiani](https://github.com/Frama91/Portfolio/tree/main/DataEdilis 'Vai al progetto')
+## [Licei Italiani](https://github.com/Frama91/Portfolio/tree/main/Licei%20taliani 'Vai al progetto')
 - **Strumenti Utilizzati:**
   - *Looker Studio*
 - **Descrizione:**
